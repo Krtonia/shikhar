@@ -1,0 +1,73 @@
+baseurl = "https://shikhartiwari.tech/"
+title = "shikhartiwari"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+disqusShortname = "krtonia"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "shikhar tiwari"
+  info = "Welcome to turbid world of shikhar tiwari"
+  description = "A student and an Android linux Enthusiast"
+  keywords = "Downloads,About"
+  avatarurl = "https://avatars.githubusercontent.com/u/96814551?v=4"
+  avatarTitle = "Shikhar Tiwari"
+  #gravatar = "shikhartiwari116@.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/Krtonia"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/Krtonia/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/Excraze_st/"
+[[params.social]]
+  name = "Telegram"
+  icon = "fa fa-telegram fa-2x"
+  weight = 3
+  url = "https://t.me/Excraze"
+[[params.social]]
+  name = "Gmail"
+  icon = "fa fa-envelope fa-2x"
+  weight = 3
+  url = "https://mail.google.com/mail/"
+
+# Menu links
+[[menu.main]]
+  name = "Downloads"
+  weight = 1
+  url  = "download/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
