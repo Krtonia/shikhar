@@ -1,10 +1,10 @@
 ## Downloads 
 
-*Kawaii Kernel for Pocophone F1*
+*Kawaii Kernel for Pocophone F1* [Download](https://sourceforge.net/projects/jxs/files/Kernel/)
 
 Kawaii is a balanced kernel for Poco F1 which aims to provide all round stability and reliable performance
 
-  Latest Changelog for the Kernel
+  Latest Changelog for the Kernel [Kernel source](https://github.com/Krtonia/kawaii_kernel_sdm845)
 
 - sdm845: Disable unhandled or broken IRQ monitoring 
 - sdm845: Disable expedited RCU grace periods after init
@@ -22,10 +22,6 @@ Kawaii is a balanced kernel for Poco F1 which aims to provide all round stabilit
 - arm64/configs: Disable core dump support 
 - sched: Reduce latency for better responsiveness 
 - Drop version numbering and change to Kawaii+
-
-[Kernel source](https://github.com/Krtonia/kawaii_kernel_sdm845)
-
-[Download](https://sourceforge.net/projects/jxs/files/Kernel/)
 
 ## Roms for F1
 Have been maintaining roms for Poco F1 since Android 12 you can find all my builds here 
