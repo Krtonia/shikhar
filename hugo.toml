@@ -60,7 +60,7 @@ style = "github-dark"
   name = "Gmail"
   icon = "fa fa-envelope fa-2x"
   weight = 3
-  url = "https://mail.google.com/mail/"
+  url = "mailto:shikhartiwari116@gmail.com"
 
 # Menu links
 [[menu.main]]
